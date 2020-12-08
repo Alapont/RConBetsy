@@ -1,0 +1,1 @@
+poner una función de coger datos y plotearlos
